@@ -1,16 +1,16 @@
-## Hi there 👋
+<h2 align="center">Hey there, I'm Partha 👋</h2>
 
-<!--
-**pCubeReBorn/pCubeReBorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
+I’m a CSE undergrad at UIU.  
+I enjoy embedded systems where software and hardware meet.  
+I learn, forget, and continue — and I like problem-solving in coding, math, and robotics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔭 Current Focus
+- Embedded systems & robotics (ESP32 / STM32 / Arduino)
+- Communication: CAN / UART / I2C / SPI
+- Building better habits through small projects
+
